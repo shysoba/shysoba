@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center"> 
   
-  ꒰ა   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ghostery.svg' alt='ghostery' height='35'>](https://s-aga.carrd.co/)     ໒꒱ 
+  ꒰ა   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ghostery.svg' alt='ghostery' height='45'>](https://s-aga.carrd.co/)     ໒꒱ 
   </h1>
   
 <p align="center">
