@@ -21,6 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center"> 
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/shysoba/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='25'>](https://open.spotify.com/user/shysoba)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='25'>](https://open.spotify.com/user/shysoba)  
   
   </h3>
