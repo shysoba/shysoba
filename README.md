@@ -13,8 +13,7 @@ You can click the Preview link to take a look at your changes.
   </h1>
   
 <p align="center">
-- 👀 I’m interested in making money... <br>
-- 💞️ I’m looking to collaborate on making money...<br>
+- 👀 I’m interested in sleeping in... <br>
 - 🌱 I’m currently learning how to dougie...<br>
 - 📫 You can reach me...telepathically... <br>
 </p>
