@@ -16,6 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center"> 
   
-  ꒰ა   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ghostery.svg' alt='ghostery' height='45'>](https://d-ilute.carrd.co/)     ໒꒱ 
+  ꒰ა   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/aiqfome.svg' alt='ghostery' height='45'>](https://d-ilute.carrd.co/)     ໒꒱ 
   
   </h3>
