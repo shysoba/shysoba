@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
   
 <p align="center">
-- 👀 I’m interested in sleeping in... <br>
+- 👀 Click on the ghost for more... <br>
 - 🌱 I’m currently learning how to dougie...<br>
 - 📫 You can reach me...telepathically... <br>
 </p>
